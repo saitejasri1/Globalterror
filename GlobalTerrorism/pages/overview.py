@@ -4,7 +4,7 @@ from utils.data_loader import load_data
 from utils.visualization import create_yearly_trend_chart
 
 def show():
-    st.title("Terrorism Analysis Overview")
+    st.title("Global Terrorism Analysis Overview")
     
     data = load_data()
     
