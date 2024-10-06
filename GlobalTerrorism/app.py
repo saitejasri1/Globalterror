@@ -16,3 +16,4 @@ elif page == "Attack Success Analysis":
     attack_success_analysis.show()
 elif page == "Predictive Analysis":
     predictive_analysis.show()
+    
